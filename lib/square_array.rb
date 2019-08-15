@@ -8,4 +8,3 @@ counter += 1
 end
 new_numbers
 end
-
